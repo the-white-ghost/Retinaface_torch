@@ -37,7 +37,7 @@ Implementation of [this](https://arxiv.org/abs/1905.00641) research paper.
       images/
       wider_val.txt
 ```
-ps: wider_val.txt only include val file names but not label information.
+
 
 ## Training
 Pretrain model  and trained model are put in [google cloud](https://drive.google.com/open?id=1oZRSG0ZegbVkVwUd8wUIQx8W7yfZ_ki1). The model could be put as follows:
